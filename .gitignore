@@ -1,0 +1,8 @@
+__pycache__/
+
+/config
+/outputs
+/scripts
+/monolito/server.py
+
+env
